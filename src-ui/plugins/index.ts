@@ -1,7 +1,7 @@
 /**
- * plugins/index.js
+ * plugins/index.ts
  *
- * Automatically included in `./src-ui/main.js`
+ * Automatically included in `./src-ui/main.ts`
  */
 
 // Plugins
